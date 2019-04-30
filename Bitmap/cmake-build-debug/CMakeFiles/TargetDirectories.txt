@@ -1,0 +1,3 @@
+/home/vito/Seafile/Repository/reasearch/Git/Cplusplus-code/Bitmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vito/Seafile/Repository/reasearch/Git/Cplusplus-code/Bitmap/cmake-build-debug/CMakeFiles/Bitmap.dir
+/home/vito/Seafile/Repository/reasearch/Git/Cplusplus-code/Bitmap/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/vito/CLionProjects/word Ladder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vito/CLionProjects/word Ladder/cmake-build-debug/CMakeFiles/word_Ladder.dir
+/home/vito/CLionProjects/word Ladder/cmake-build-debug/CMakeFiles/edit_cache.dir

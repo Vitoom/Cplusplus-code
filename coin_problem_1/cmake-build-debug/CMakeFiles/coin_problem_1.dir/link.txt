@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/coin_problem_1.dir/main.cpp.o  -o coin_problem_1 

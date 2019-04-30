@@ -1,0 +1,3 @@
+/home/vito/CLionProjects/Word Search II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vito/CLionProjects/Word Search II/cmake-build-debug/CMakeFiles/Word_Search_II.dir
+/home/vito/CLionProjects/Word Search II/cmake-build-debug/CMakeFiles/edit_cache.dir

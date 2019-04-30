@@ -1,0 +1,3 @@
+/home/vito/CLionProjects/coin_problem_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vito/CLionProjects/coin_problem_1/cmake-build-debug/CMakeFiles/coin_problem_1.dir
+/home/vito/CLionProjects/coin_problem_1/cmake-build-debug/CMakeFiles/edit_cache.dir

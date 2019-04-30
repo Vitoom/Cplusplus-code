@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vito/CLionProjects/Word Search II/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+unordered_set
+-
+string
+-
+

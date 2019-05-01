@@ -1,0 +1,3 @@
+D:/seafile/Seafile/Repository/reasearch/Git/Cplusplus-code/strcpy/cmake-build-debug/CMakeFiles/strcpy.dir
+D:/seafile/Seafile/Repository/reasearch/Git/Cplusplus-code/strcpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/seafile/Seafile/Repository/reasearch/Git/Cplusplus-code/strcpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/seafile/Seafile/Repository/reasearch/Git/Cplusplus-code/strcpy/main.cpp
+iostream
+-
+cstdio
+-
+cassert
+-
+

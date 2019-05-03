@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vito/Seafile/Repository/research/Git/Cplusplus-code/Partition/main.cpp
+iostream
+-
+cassert
+-
+vector
+-
+
